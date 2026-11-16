@@ -39,7 +39,7 @@ npm run lint
 
 ## Current limits
 
-The resume link is a placeholder. The contact form validates input and logs it locally; it does not deliver messages. This is a coursework prototype rather than the current professional portfolio.
+The resume link is a placeholder. The contact form validates input locally; it does not deliver messages. This is a coursework prototype rather than the current professional portfolio.
 
 Setup instructions were checked against source; builds and application behavior have not been rerun during this cleanup.
 
