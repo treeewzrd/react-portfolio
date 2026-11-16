@@ -7,6 +7,18 @@ Coursework portfolio prototype with project navigation, a skills section, and co
 
 **Built with:** React, JavaScript, Vite, CSS.
 
+## What I built
+
+- Built a React portfolio with routed pages, reusable navigation, and project components.
+- Implemented contact-form input state and validation.
+- Created skills and resume views; the current resume link remains a placeholder.
+
+## Explore the source
+
+- [src/App.jsx](src/App.jsx) — Application structure and routing.
+- [src/components/Portfolio/index.jsx](src/components/Portfolio/index.jsx) — Project gallery.
+- [src/components/Contact/index.jsx](src/components/Contact/index.jsx) — Contact-form state and validation.
+
 ## Run locally
 
 Requires Node.js/npm. From the repository root:
