@@ -14,9 +14,6 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (!errorMessage) {
-      console.log('Submit Form', formState);
-    }
   };
 
   const handleChange = (e) => {
@@ -36,7 +33,6 @@ function Contact() {
     }
     if (!errorMessage) {
       setFormState({ ...formState, [e.target.name]: e.target.value });
-      console.log('Handle Form', formState);
     }
   };
 
