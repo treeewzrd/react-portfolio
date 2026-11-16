@@ -1,6 +1,13 @@
-# React Portfolio ![License](https://img.shields.io/badge/license-MIT-green) ![React](https://img.shields.io/badge/React-18-blue) ![Netlify](https://img.shields.io/badge/Deployed-Netlify-brightgreen)
+# React Portfolio
 
-Welcome to my professional portfolio built with React! Explore my projects, skills, and contact information below.
+
+**Status: Coursework / learning project.**
+
+A React coursework portfolio prototype. Resume and contact features contain placeholders.
+
+Preserved as a learning reference; production deployment and current compatibility have not been verified.
+
+A React portfolio built as a coursework exercise. Explore my projects, skills, and contact information below.
 
 ---
 
@@ -31,7 +38,7 @@ This is a responsive portfolio website built with React. It showcases my web dev
 
 - Responsive design for all devices
 - Dynamic project gallery
-- Downloadable resume
+- Placeholder resume link
 - Contact form with validation
 - Smooth navigation
 
@@ -52,8 +59,8 @@ To run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/treeewzrd/REACT-PORTFOLIO.git
+   cd REACT-PORTFOLIO
    ```
 
 2. **Install dependencies:**
@@ -75,8 +82,8 @@ To run this project locally:
 
 - Browse the About, Projects, and Contact sections using the navigation bar.
 - Click project images or titles to view live demos or source code.
-- Download my resume from the Resume section.
-- Use the contact form to send me a message.
+- The Resume section currently contains a placeholder link.
+- The contact form validates input locally; it does not send messages.
 
 ---
 
@@ -93,9 +100,7 @@ To run this project locally:
 
 ## Contact
 
-- **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- **GitHub:** [treeewzrd](https://github.com/treeewzrd)
 
 ---
 
@@ -107,5 +112,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Deployment
 
-Deployed with [Netlify](https://www.netlify.com/).  
-**Live site:** [Netlify Link Here](#) <!-- Replace # with your Netlify link -->
+Deployment has not been verified during this cleanup.
