@@ -1,6 +1,8 @@
 # React Portfolio
 
-![Status](https://img.shields.io/badge/status-coursework-blue)
+**Coursework for school**
+
+![Coursework](https://img.shields.io/badge/Coursework-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Coursework portfolio prototype with project navigation, a skills section, and contact-form validation.
